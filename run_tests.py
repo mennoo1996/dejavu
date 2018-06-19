@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 from dejavu.testing import *
 from dejavu import Dejavu
 from optparse import OptionParser

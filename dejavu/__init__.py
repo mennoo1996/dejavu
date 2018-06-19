@@ -34,11 +34,21 @@ class Dejavu(object):
             self.limit = None
         self.get_fingerprinted_songs()
 
+    def get_song_list(self):
+        songs = self.db.get_songs()
+        res = set()
+        for song in songs:
+            res.add(song['song_name'])
+        return res
+    
     def get_fingerprinted_songs(self):
         # get songs previously indexed
+        #print('getting fingerprinted songs')
         self.songs = self.db.get_songs()
         self.songhashes_set = set()  # to know which ones we've computed before
         for song in self.songs:
+            #print('song')
+            #print(song)
             song_hash = song[Database.FIELD_FILE_SHA1]
             self.songhashes_set.add(song_hash)
 
@@ -123,19 +133,29 @@ class Dejavu(object):
 
             Returns a dictionary with match information.
         """
+        print('Aligning matches')
         # align by diffs
         diff_counter = {}
         largest = 0
         largest_count = 0
         song_id = -1
         for tup in matches:
+            #print('tup (sid, diff)')
+
             sid, diff = tup
+            #print(sid)
+            #print(diff)
             if diff not in diff_counter:
+                #print('diff not in diff_counter')
                 diff_counter[diff] = {}
             if sid not in diff_counter[diff]:
+                #print('sid not in diff_counter[diff]')
                 diff_counter[diff][sid] = 0
             diff_counter[diff][sid] += 1
-
+            #print('diff_counter[diff][sid] = ')
+            #print(diff_counter[diff][sid])
+            #print('largest count is')
+            #print(largest_count)
             if diff_counter[diff][sid] > largest_count:
                 largest = diff
                 largest_count = diff_counter[diff][sid]
@@ -153,13 +173,30 @@ class Dejavu(object):
         nseconds = round(float(largest) / fingerprint.DEFAULT_FS *
                          fingerprint.DEFAULT_WINDOW_SIZE *
                          fingerprint.DEFAULT_OVERLAP_RATIO, 5)
+
+        # Compute useful confidence
+        largest = 0
+        q = 0
+        for _, v in diff_counter.items():
+            for k, v2 in v.items():
+                if not(k == song_id) and int(v2) > largest:
+                    largest = int(v2)
+                    q = k
+        
+        conf = 1.0 - float(largest) / float(largest_count)
+
+        #print(largest)
+        #print(largest_count)
+        #print(q)
+        #print(self.db.get_song_by_id(q).get(Dejavu.SONG_NAME, None))
+                
         song = {
             Dejavu.SONG_ID : song_id,
             Dejavu.SONG_NAME : songname,
-            Dejavu.CONFIDENCE : largest_count,
+            Dejavu.CONFIDENCE : str(conf),
             Dejavu.OFFSET : int(largest),
             Dejavu.OFFSET_SECS : nseconds,
-            Database.FIELD_FILE_SHA1 : song.get(Database.FIELD_FILE_SHA1, None),}
+            Database.FIELD_FILE_SHA1 : song.get(Database.FIELD_FILE_SHA1, None)}
         return song
 
     def recognize(self, recognizer, *options, **kwoptions):

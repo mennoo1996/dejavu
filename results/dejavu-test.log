@@ -1,0 +1,2838 @@
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/cut-Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.205
+DEBUG:root:confidence: 11
+DEBUG:root:song start_time: 55
+DEBUG:root:result start time: 55.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_120_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.862
+DEBUG:root:confidence: 1309
+DEBUG:root:song start_time: 120
+DEBUG:root:result start time: 120.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_177_4sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.671
+DEBUG:root:confidence: 57
+DEBUG:root:song start_time: 177
+DEBUG:root:result start time: 177.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_8_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.689
+DEBUG:root:confidence: 155
+DEBUG:root:song start_time: 8
+DEBUG:root:result start time: 8.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_11_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.378
+DEBUG:root:confidence: 67
+DEBUG:root:song start_time: 11
+DEBUG:root:result start time: 11.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_71_1sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.19
+DEBUG:root:confidence: 31
+DEBUG:root:song start_time: 71
+DEBUG:root:result start time: 71.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_5sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.875
+DEBUG:root:confidence: 1343
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_14_3sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.488
+DEBUG:root:confidence: 23
+DEBUG:root:song start_time: 14
+DEBUG:root:result start time: 1.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_4sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.726
+DEBUG:root:confidence: 1231
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_49_3sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.561
+DEBUG:root:confidence: 405
+DEBUG:root:song start_time: 49
+DEBUG:root:result start time: 49.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_232_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.849
+DEBUG:root:confidence: 157
+DEBUG:root:song start_time: 232
+DEBUG:root:result start time: 232.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_160_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.625
+DEBUG:root:confidence: 92
+DEBUG:root:song start_time: 160
+DEBUG:root:result start time: 12.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_48_4sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_69_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.483
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 69
+DEBUG:root:result start time: 69.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_188_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.187
+DEBUG:root:confidence: 71
+DEBUG:root:song start_time: 188
+DEBUG:root:result start time: 188.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_101_3sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.57
+DEBUG:root:confidence: 397
+DEBUG:root:song start_time: 101
+DEBUG:root:result start time: 101.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_12_1sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.192
+DEBUG:root:confidence: 20
+DEBUG:root:song start_time: 12
+DEBUG:root:result start time: 12.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_85_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.536
+DEBUG:root:confidence: 82
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_2sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.427
+DEBUG:root:confidence: 718
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_3sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.577
+DEBUG:root:confidence: 959
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_198_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.42
+DEBUG:root:confidence: 86
+DEBUG:root:song start_time: 198
+DEBUG:root:result start time: 203.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_28_2sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.36
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 28
+DEBUG:root:result start time: 28.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_97_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.202
+DEBUG:root:confidence: 44
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_85_5sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.768
+DEBUG:root:confidence: 47
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_173_2sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.423
+DEBUG:root:confidence: 190
+DEBUG:root:song start_time: 173
+DEBUG:root:result start time: 173.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_135_5sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.869
+DEBUG:root:confidence: 1030
+DEBUG:root:song start_time: 135
+DEBUG:root:result start time: 135.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_40_5sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.799
+DEBUG:root:confidence: 172
+DEBUG:root:song start_time: 40
+DEBUG:root:result start time: 40.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_1sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.195
+DEBUG:root:confidence: 239
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_142_4sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.637
+DEBUG:root:confidence: 39
+DEBUG:root:song start_time: 142
+DEBUG:root:result start time: 142.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_97_2sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.361
+DEBUG:root:confidence: 55
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 33.0807790756
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.195
+DEBUG:root:confidence: 11
+DEBUG:root:song start_time: 55
+DEBUG:root:result start time: 55.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_120_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.836
+DEBUG:root:confidence: 1309
+DEBUG:root:song start_time: 120
+DEBUG:root:result start time: 120.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_177_4sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.665
+DEBUG:root:confidence: 57
+DEBUG:root:song start_time: 177
+DEBUG:root:result start time: 177.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_8_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.665
+DEBUG:root:confidence: 155
+DEBUG:root:song start_time: 8
+DEBUG:root:result start time: 8.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_11_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.38
+DEBUG:root:confidence: 67
+DEBUG:root:song start_time: 11
+DEBUG:root:result start time: 11.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_71_1sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.19
+DEBUG:root:confidence: 31
+DEBUG:root:song start_time: 71
+DEBUG:root:result start time: 71.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_5sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.842
+DEBUG:root:confidence: 1343
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_14_3sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.489
+DEBUG:root:confidence: 23
+DEBUG:root:song start_time: 14
+DEBUG:root:result start time: 1.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_4sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.705
+DEBUG:root:confidence: 1231
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_49_3sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.555
+DEBUG:root:confidence: 405
+DEBUG:root:song start_time: 49
+DEBUG:root:result start time: 49.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_232_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.829
+DEBUG:root:confidence: 157
+DEBUG:root:song start_time: 232
+DEBUG:root:result start time: 232.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_160_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.619
+DEBUG:root:confidence: 92
+DEBUG:root:song start_time: 160
+DEBUG:root:result start time: 12.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_48_4sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_69_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.479
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 69
+DEBUG:root:result start time: 69.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_188_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.184
+DEBUG:root:confidence: 71
+DEBUG:root:song start_time: 188
+DEBUG:root:result start time: 188.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_101_3sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.569
+DEBUG:root:confidence: 397
+DEBUG:root:song start_time: 101
+DEBUG:root:result start time: 101.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_12_1sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.191
+DEBUG:root:confidence: 20
+DEBUG:root:song start_time: 12
+DEBUG:root:result start time: 12.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_85_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.533
+DEBUG:root:confidence: 82
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_2sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.427
+DEBUG:root:confidence: 718
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_3sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.567
+DEBUG:root:confidence: 959
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_198_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.417
+DEBUG:root:confidence: 86
+DEBUG:root:song start_time: 198
+DEBUG:root:result start time: 203.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_28_2sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.362
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 28
+DEBUG:root:result start time: 28.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_97_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.201
+DEBUG:root:confidence: 44
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_85_5sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.768
+DEBUG:root:confidence: 47
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_173_2sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.426
+DEBUG:root:confidence: 190
+DEBUG:root:song start_time: 173
+DEBUG:root:result start time: 173.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_135_5sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.842
+DEBUG:root:confidence: 1030
+DEBUG:root:song start_time: 135
+DEBUG:root:result start time: 135.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_40_5sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.79
+DEBUG:root:confidence: 172
+DEBUG:root:song start_time: 40
+DEBUG:root:result start time: 40.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_1sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.195
+DEBUG:root:confidence: 239
+DEBUG:root:song start_time: 0
+DEBUG:root:result start time: 0.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_142_4sec.mp3
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.194
+DEBUG:root:confidence: 11
+DEBUG:root:song start_time: 55
+DEBUG:root:result start time: 55.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_120_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.857
+DEBUG:root:confidence: 1309
+DEBUG:root:song start_time: 120
+DEBUG:root:result start time: 120.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_177_4sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.667
+DEBUG:root:confidence: 57
+DEBUG:root:song start_time: 177
+DEBUG:root:result start time: 177.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_8_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.68
+DEBUG:root:confidence: 155
+DEBUG:root:song start_time: 8
+DEBUG:root:result start time: 8.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_11_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.382
+DEBUG:root:confidence: 67
+DEBUG:root:song start_time: 11
+DEBUG:root:result start time: 11.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_71_1sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.19
+DEBUG:root:confidence: 31
+DEBUG:root:song start_time: 71
+DEBUG:root:result start time: 71.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_5sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_14_3sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.487
+DEBUG:root:confidence: 23
+DEBUG:root:song start_time: 14
+DEBUG:root:result start time: 1.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_4sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_49_3sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.563
+DEBUG:root:confidence: 405
+DEBUG:root:song start_time: 49
+DEBUG:root:result start time: 49.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_232_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.843
+DEBUG:root:confidence: 157
+DEBUG:root:song start_time: 232
+DEBUG:root:result start time: 232.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_160_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.626
+DEBUG:root:confidence: 92
+DEBUG:root:song start_time: 160
+DEBUG:root:result start time: 12.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_48_4sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.712
+DEBUG:root:confidence: 167
+DEBUG:root:song start_time: 48
+DEBUG:root:result start time: 107.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_69_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.481
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 69
+DEBUG:root:result start time: 69.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_188_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.187
+DEBUG:root:confidence: 71
+DEBUG:root:song start_time: 188
+DEBUG:root:result start time: 188.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_101_3sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.567
+DEBUG:root:confidence: 397
+DEBUG:root:song start_time: 101
+DEBUG:root:result start time: 101.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_12_1sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.193
+DEBUG:root:confidence: 20
+DEBUG:root:song start_time: 12
+DEBUG:root:result start time: 12.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_85_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.538
+DEBUG:root:confidence: 82
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_2sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_3sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_198_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.417
+DEBUG:root:confidence: 86
+DEBUG:root:song start_time: 198
+DEBUG:root:result start time: 203.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_28_2sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.357
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 28
+DEBUG:root:result start time: 28.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_97_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.201
+DEBUG:root:confidence: 44
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_85_5sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.767
+DEBUG:root:confidence: 47
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_173_2sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.425
+DEBUG:root:confidence: 190
+DEBUG:root:song start_time: 173
+DEBUG:root:result start time: 173.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_135_5sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.87
+DEBUG:root:confidence: 1030
+DEBUG:root:song start_time: 135
+DEBUG:root:result start time: 135.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_40_5sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.807
+DEBUG:root:confidence: 172
+DEBUG:root:song start_time: 40
+DEBUG:root:result start time: 40.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: cut-Sean-Fournier--Falling-For-You_0_1sec.mp3
+DEBUG:root:song: cut-Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_142_4sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.632
+DEBUG:root:confidence: 39
+DEBUG:root:song start_time: 142
+DEBUG:root:result start time: 142.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_97_2sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.358
+DEBUG:root:confidence: 55
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 32.8842320442
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans (u'/home/menno/multimedia-project/multimedia_project/local/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans (u'/home/menno/multimedia-project/multimedia_project/local/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc--Eigenvalue-Subspace-Decomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Sean-Fournier--Falling-For-You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/The-Lights-Galaxia--While-She-Sleeps.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Josh-Woodward--I-Want-To-Destroy-Something-Beautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Brad-Sucks--Total-Breakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_55_1sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.195
+DEBUG:root:confidence: 11
+DEBUG:root:song start_time: 55
+DEBUG:root:result start time: 55.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_120_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.832
+DEBUG:root:confidence: 1309
+DEBUG:root:song start_time: 120
+DEBUG:root:result start time: 120.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_177_4sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.659
+DEBUG:root:confidence: 57
+DEBUG:root:song start_time: 177
+DEBUG:root:result start time: 177.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_8_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.665
+DEBUG:root:confidence: 155
+DEBUG:root:song start_time: 8
+DEBUG:root:result start time: 8.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_11_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.378
+DEBUG:root:confidence: 67
+DEBUG:root:song start_time: 11
+DEBUG:root:result start time: 11.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_71_1sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.189
+DEBUG:root:confidence: 31
+DEBUG:root:song start_time: 71
+DEBUG:root:result start time: 71.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_14_3sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.504
+DEBUG:root:confidence: 23
+DEBUG:root:song start_time: 14
+DEBUG:root:result start time: 1.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_49_3sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.568
+DEBUG:root:confidence: 405
+DEBUG:root:song start_time: 49
+DEBUG:root:result start time: 49.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_232_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.837
+DEBUG:root:confidence: 157
+DEBUG:root:song start_time: 232
+DEBUG:root:result start time: 232.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_160_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.617
+DEBUG:root:confidence: 92
+DEBUG:root:song start_time: 160
+DEBUG:root:result start time: 12.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_48_4sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.701
+DEBUG:root:confidence: 167
+DEBUG:root:song start_time: 48
+DEBUG:root:result start time: 107.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_69_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.483
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 69
+DEBUG:root:result start time: 69.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_188_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.185
+DEBUG:root:confidence: 71
+DEBUG:root:song start_time: 188
+DEBUG:root:result start time: 188.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_101_3sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.561
+DEBUG:root:confidence: 397
+DEBUG:root:song start_time: 101
+DEBUG:root:result start time: 101.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_12_1sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.192
+DEBUG:root:confidence: 20
+DEBUG:root:song start_time: 12
+DEBUG:root:result start time: 12.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_85_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.531
+DEBUG:root:confidence: 82
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_198_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.42
+DEBUG:root:confidence: 86
+DEBUG:root:song start_time: 198
+DEBUG:root:result start time: 203.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_28_2sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.365
+DEBUG:root:confidence: 16
+DEBUG:root:song start_time: 28
+DEBUG:root:result start time: 28.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_97_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.204
+DEBUG:root:confidence: 44
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_85_5sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.774
+DEBUG:root:confidence: 47
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_173_2sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.425
+DEBUG:root:confidence: 190
+DEBUG:root:song start_time: 173
+DEBUG:root:result start time: 173.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_135_5sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.84
+DEBUG:root:confidence: 1030
+DEBUG:root:song start_time: 135
+DEBUG:root:result start time: 135.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_40_5sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.794
+DEBUG:root:confidence: 172
+DEBUG:root:song start_time: 40
+DEBUG:root:result start time: 40.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_142_4sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.64
+DEBUG:root:confidence: 39
+DEBUG:root:song start_time: 142
+DEBUG:root:result start time: 142.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_97_2sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.37
+DEBUG:root:confidence: 55
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 27.2108228207
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans (u'/home/menno/multimedia-project/multimedia_project/local/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans (u'/home/menno/multimedia-project/multimedia_project/local/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Monopole-02-Stereo-visionradio.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Erdbeerschnitzel-Walkampfchampagne.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/PaperNavy-08-SwanSong.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/TheLightsGalaxia-02-WhileSheSleepsMorningEdit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Krillminima-01-Sommerdellen.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/EntertainmentfortheBraindead-04-run.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/NobaraHayakawa-01-Trail.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/adcBicycle-02-pooreconomicpolicies.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ComfortFit-03-Sorry.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc-01-EigenvalueSubspaceDecomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/JoshWoodward-IWantToDestroySomethingBeautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ProfessorKliq-03-BustThisBustThat.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/SeanFournier-06-FallingForYouPianoVersion.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Keinzweiter-Mircoobee.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/BradSucks-07-TotalBreakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Halogen-03-LengthandBrechtSynaecideRemix.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Kriss-03-JazzClub.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/RobinGrey-01-TheseDays.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Monopole-02-Stereo-visionradio.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Erdbeerschnitzel-Walkampfchampagne.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/PaperNavy-08-SwanSong.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/TheLightsGalaxia-02-WhileSheSleepsMorningEdit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Krillminima-01-Sommerdellen.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/EntertainmentfortheBraindead-04-run.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/NobaraHayakawa-01-Trail.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/adcBicycle-02-pooreconomicpolicies.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ComfortFit-03-Sorry.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc-01-EigenvalueSubspaceDecomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/JoshWoodward-IWantToDestroySomethingBeautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ProfessorKliq-03-BustThisBustThat.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/SeanFournier-06-FallingForYouPianoVersion.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Keinzweiter-Mircoobee.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/BradSucks-07-TotalBreakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Halogen-03-LengthandBrechtSynaecideRemix.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Kriss-03-JazzClub.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/RobinGrey-01-TheseDays.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Monopole-02-Stereo-visionradio.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Erdbeerschnitzel-Walkampfchampagne.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/PaperNavy-08-SwanSong.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/TheLightsGalaxia-02-WhileSheSleepsMorningEdit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Krillminima-01-Sommerdellen.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/EntertainmentfortheBraindead-04-run.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/NobaraHayakawa-01-Trail.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/adcBicycle-02-pooreconomicpolicies.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ComfortFit-03-Sorry.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc-01-EigenvalueSubspaceDecomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/JoshWoodward-IWantToDestroySomethingBeautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ProfessorKliq-03-BustThisBustThat.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/SeanFournier-06-FallingForYouPianoVersion.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Keinzweiter-Mircoobee.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/BradSucks-07-TotalBreakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Halogen-03-LengthandBrechtSynaecideRemix.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Kriss-03-JazzClub.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/RobinGrey-01-TheseDays.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Monopole-02-Stereo-visionradio.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Erdbeerschnitzel-Walkampfchampagne.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/PaperNavy-08-SwanSong.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/TheLightsGalaxia-02-WhileSheSleepsMorningEdit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Krillminima-01-Sommerdellen.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/EntertainmentfortheBraindead-04-run.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/NobaraHayakawa-01-Trail.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/adcBicycle-02-pooreconomicpolicies.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ComfortFit-03-Sorry.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc-01-EigenvalueSubspaceDecomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/JoshWoodward-IWantToDestroySomethingBeautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ProfessorKliq-03-BustThisBustThat.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/SeanFournier-06-FallingForYouPianoVersion.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Keinzweiter-Mircoobee.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/BradSucks-07-TotalBreakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Halogen-03-LengthandBrechtSynaecideRemix.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Kriss-03-JazzClub.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/RobinGrey-01-TheseDays.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Monopole-02-Stereo-visionradio.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Erdbeerschnitzel-Walkampfchampagne.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/PaperNavy-08-SwanSong.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/TheLightsGalaxia-02-WhileSheSleepsMorningEdit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Krillminima-01-Sommerdellen.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/EntertainmentfortheBraindead-04-run.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/NobaraHayakawa-01-Trail.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/adcBicycle-02-pooreconomicpolicies.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ComfortFit-03-Sorry.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Choc-01-EigenvalueSubspaceDecomposition.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/JoshWoodward-IWantToDestroySomethingBeautiful.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/ProfessorKliq-03-BustThisBustThat.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/SeanFournier-06-FallingForYouPianoVersion.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Keinzweiter-Mircoobee.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/BradSucks-07-TotalBreakdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Halogen-03-LengthandBrechtSynaecideRemix.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/Kriss-03-JazzClub.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', u'./mp3/RobinGrey-01-TheseDays.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Erdbeerschnitzel-Walkampfchampagne_17_1sec.mp3
+DEBUG:root:song: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:song_result: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.229
+DEBUG:root:confidence: 89
+DEBUG:root:song start_time: 17
+DEBUG:root:result start time: 17.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc-01-EigenvalueSubspaceDecomposition_177_2sec.mp3
+DEBUG:root:song: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:song_result: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.358
+DEBUG:root:confidence: 7
+DEBUG:root:song start_time: 177
+DEBUG:root:result start time: 177.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: PaperNavy-08-SwanSong_161_3sec.mp3
+DEBUG:root:song: PaperNavy-08-SwanSong
+DEBUG:root:song_result: PaperNavy-08-SwanSong
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.564
+DEBUG:root:confidence: 237
+DEBUG:root:song start_time: 161
+DEBUG:root:result start time: 161.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Monopole-02-Stereo-visionradio_436_5sec.mp3
+DEBUG:root:song: Monopole-02-Stereo-visionradio
+DEBUG:root:song_result: Monopole-02-Stereo-visionradio
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.909
+DEBUG:root:confidence: 735
+DEBUG:root:song start_time: 436
+DEBUG:root:result start time: 424.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: adcBicycle-02-pooreconomicpolicies_85_1sec.mp3
+DEBUG:root:song: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:song_result: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.203
+DEBUG:root:confidence: 78
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: PaperNavy-08-SwanSong_160_2sec.mp3
+DEBUG:root:song: PaperNavy-08-SwanSong
+DEBUG:root:song_result: PaperNavy-08-SwanSong
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.397
+DEBUG:root:confidence: 19
+DEBUG:root:song start_time: 160
+DEBUG:root:result start time: 160.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: SeanFournier-06-FallingForYouPianoVersion_46_3sec.mp3
+DEBUG:root:song: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:song_result: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.594
+DEBUG:root:confidence: 172
+DEBUG:root:song start_time: 46
+DEBUG:root:result start time: 99.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: JoshWoodward-IWantToDestroySomethingBeautiful_84_3sec.mp3
+DEBUG:root:song: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:song_result: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.576
+DEBUG:root:confidence: 842
+DEBUG:root:song start_time: 84
+DEBUG:root:result start time: 84.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: NobaraHayakawa-01-Trail_136_4sec.mp3
+DEBUG:root:song: NobaraHayakawa-01-Trail
+DEBUG:root:song_result: NobaraHayakawa-01-Trail
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.71
+DEBUG:root:confidence: 244
+DEBUG:root:song start_time: 136
+DEBUG:root:result start time: 136.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: SeanFournier-06-FallingForYouPianoVersion_46_4sec.mp3
+DEBUG:root:song: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:song_result: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.721
+DEBUG:root:confidence: 171
+DEBUG:root:song start_time: 46
+DEBUG:root:result start time: 99.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: EntertainmentfortheBraindead-04-run_81_3sec.mp3
+DEBUG:root:song: EntertainmentfortheBraindead-04-run
+DEBUG:root:song_result: EntertainmentfortheBraindead-04-run
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.568
+DEBUG:root:confidence: 333
+DEBUG:root:song start_time: 81
+DEBUG:root:result start time: 81.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: BradSucks-07-TotalBreakdown_82_5sec.mp3
+DEBUG:root:song: BradSucks-07-TotalBreakdown
+DEBUG:root:song_result: BradSucks-07-TotalBreakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.887
+DEBUG:root:confidence: 284
+DEBUG:root:song start_time: 82
+DEBUG:root:result start time: 82.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Kriss-03-JazzClub_136_5sec.mp3
+DEBUG:root:song: Kriss-03-JazzClub
+DEBUG:root:song_result: Kriss-03-JazzClub
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.941
+DEBUG:root:confidence: 512
+DEBUG:root:song start_time: 136
+DEBUG:root:result start time: 201.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc-01-EigenvalueSubspaceDecomposition_69_1sec.mp3
+DEBUG:root:song: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:song_result: PaperNavy-08-SwanSong
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Keinzweiter-Mircoobee_299_4sec.mp3
+DEBUG:root:song: Keinzweiter-Mircoobee
+DEBUG:root:song_result: Keinzweiter-Mircoobee
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.734
+DEBUG:root:confidence: 404
+DEBUG:root:song start_time: 299
+DEBUG:root:result start time: 139.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: adcBicycle-02-pooreconomicpolicies_26_3sec.mp3
+DEBUG:root:song: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:song_result: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.56
+DEBUG:root:confidence: 275
+DEBUG:root:song start_time: 26
+DEBUG:root:result start time: 26.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: NobaraHayakawa-01-Trail_71_2sec.mp3
+DEBUG:root:song: NobaraHayakawa-01-Trail
+DEBUG:root:song_result: NobaraHayakawa-01-Trail
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.425
+DEBUG:root:confidence: 229
+DEBUG:root:song start_time: 71
+DEBUG:root:result start time: 71.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ComfortFit-03-Sorry_47_5sec.mp3
+DEBUG:root:song: ComfortFit-03-Sorry
+DEBUG:root:song_result: ComfortFit-03-Sorry
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.893
+DEBUG:root:confidence: 653
+DEBUG:root:song start_time: 47
+DEBUG:root:result start time: 47.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: SeanFournier-06-FallingForYouPianoVersion_107_2sec.mp3
+DEBUG:root:song: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:song_result: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.433
+DEBUG:root:confidence: 486
+DEBUG:root:song start_time: 107
+DEBUG:root:result start time: 107.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: NobaraHayakawa-01-Trail_177_1sec.mp3
+DEBUG:root:song: NobaraHayakawa-01-Trail
+DEBUG:root:song_result: NobaraHayakawa-01-Trail
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.227
+DEBUG:root:confidence: 123
+DEBUG:root:song start_time: 177
+DEBUG:root:result start time: 177.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: TheLightsGalaxia-02-WhileSheSleepsMorningEdit_86_2sec.mp3
+DEBUG:root:song: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:song_result: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.377
+DEBUG:root:confidence: 9
+DEBUG:root:song start_time: 86
+DEBUG:root:result start time: 86.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: JoshWoodward-IWantToDestroySomethingBeautiful_113_5sec.mp3
+DEBUG:root:song: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:song_result: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.841
+DEBUG:root:confidence: 337
+DEBUG:root:song start_time: 113
+DEBUG:root:result start time: 113.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc-01-EigenvalueSubspaceDecomposition_185_3sec.mp3
+DEBUG:root:song: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:song_result: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.537
+DEBUG:root:confidence: 18
+DEBUG:root:song start_time: 185
+DEBUG:root:result start time: 185.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ComfortFit-03-Sorry_163_2sec.mp3
+DEBUG:root:song: ComfortFit-03-Sorry
+DEBUG:root:song_result: ComfortFit-03-Sorry
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.405
+DEBUG:root:confidence: 299
+DEBUG:root:song start_time: 163
+DEBUG:root:result start time: 163.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Keinzweiter-Mircoobee_310_2sec.mp3
+DEBUG:root:song: Keinzweiter-Mircoobee
+DEBUG:root:song_result: Keinzweiter-Mircoobee
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.421
+DEBUG:root:confidence: 224
+DEBUG:root:song start_time: 310
+DEBUG:root:result start time: 310.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ProfessorKliq-03-BustThisBustThat_30_5sec.mp3
+DEBUG:root:song: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:song_result: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.866
+DEBUG:root:confidence: 878
+DEBUG:root:song start_time: 30
+DEBUG:root:result start time: 30.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Krillminima-01-Sommerdellen_53_3sec.mp3
+DEBUG:root:song: Krillminima-01-Sommerdellen
+DEBUG:root:song_result: Krillminima-01-Sommerdellen
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.537
+DEBUG:root:confidence: 70
+DEBUG:root:song start_time: 53
+DEBUG:root:result start time: 63.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ProfessorKliq-03-BustThisBustThat_191_2sec.mp3
+DEBUG:root:song: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:song_result: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.437
+DEBUG:root:confidence: 143
+DEBUG:root:song start_time: 191
+DEBUG:root:result start time: 191.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: RobinGrey-01-TheseDays_93_4sec.mp3
+DEBUG:root:song: RobinGrey-01-TheseDays
+DEBUG:root:song_result: RobinGrey-01-TheseDays
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.741
+DEBUG:root:confidence: 67
+DEBUG:root:song start_time: 93
+DEBUG:root:result start time: 93.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Halogen-03-LengthandBrechtSynaecideRemix_180_3sec.mp3
+DEBUG:root:song: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:song_result: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.569
+DEBUG:root:confidence: 145
+DEBUG:root:song start_time: 180
+DEBUG:root:result start time: 180.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: TheLightsGalaxia-02-WhileSheSleepsMorningEdit_59_1sec.mp3
+DEBUG:root:song: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:song_result: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.18
+DEBUG:root:confidence: 21
+DEBUG:root:song start_time: 59
+DEBUG:root:result start time: 59.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: PaperNavy-08-SwanSong_68_1sec.mp3
+DEBUG:root:song: PaperNavy-08-SwanSong
+DEBUG:root:song_result: PaperNavy-08-SwanSong
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.239
+DEBUG:root:confidence: 10
+DEBUG:root:song start_time: 68
+DEBUG:root:result start time: 68.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: EntertainmentfortheBraindead-04-run_251_2sec.mp3
+DEBUG:root:song: EntertainmentfortheBraindead-04-run
+DEBUG:root:song_result: EntertainmentfortheBraindead-04-run
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.385
+DEBUG:root:confidence: 221
+DEBUG:root:song start_time: 251
+DEBUG:root:result start time: 251.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: RobinGrey-01-TheseDays_184_1sec.mp3
+DEBUG:root:song: RobinGrey-01-TheseDays
+DEBUG:root:song_result: RobinGrey-01-TheseDays
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.249
+DEBUG:root:confidence: 339
+DEBUG:root:song start_time: 184
+DEBUG:root:result start time: 184.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: adcBicycle-02-pooreconomicpolicies_25_2sec.mp3
+DEBUG:root:song: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:song_result: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.385
+DEBUG:root:confidence: 31
+DEBUG:root:song start_time: 25
+DEBUG:root:result start time: 8.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: JoshWoodward-IWantToDestroySomethingBeautiful_115_1sec.mp3
+DEBUG:root:song: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:song_result: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.177
+DEBUG:root:confidence: 11
+DEBUG:root:song start_time: 115
+DEBUG:root:result start time: 115.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: NobaraHayakawa-01-Trail_23_3sec.mp3
+DEBUG:root:song: NobaraHayakawa-01-Trail
+DEBUG:root:song_result: NobaraHayakawa-01-Trail
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.562
+DEBUG:root:confidence: 98
+DEBUG:root:song start_time: 23
+DEBUG:root:result start time: 23.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Monopole-02-Stereo-visionradio_11_2sec.mp3
+DEBUG:root:song: Monopole-02-Stereo-visionradio
+DEBUG:root:song_result: Monopole-02-Stereo-visionradio
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.412
+DEBUG:root:confidence: 96
+DEBUG:root:song start_time: 11
+DEBUG:root:result start time: 11.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: PaperNavy-08-SwanSong_90_4sec.mp3
+DEBUG:root:song: PaperNavy-08-SwanSong
+DEBUG:root:song_result: PaperNavy-08-SwanSong
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.715
+DEBUG:root:confidence: 847
+DEBUG:root:song start_time: 90
+DEBUG:root:result start time: 90.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: BradSucks-07-TotalBreakdown_53_2sec.mp3
+DEBUG:root:song: BradSucks-07-TotalBreakdown
+DEBUG:root:song_result: BradSucks-07-TotalBreakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.44
+DEBUG:root:confidence: 94
+DEBUG:root:song start_time: 53
+DEBUG:root:result start time: 53.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ComfortFit-03-Sorry_49_4sec.mp3
+DEBUG:root:song: ComfortFit-03-Sorry
+DEBUG:root:song_result: ComfortFit-03-Sorry
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.724
+DEBUG:root:confidence: 284
+DEBUG:root:song start_time: 49
+DEBUG:root:result start time: 49.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake_149_4sec.mp3
+DEBUG:root:song: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:song_result: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.742
+DEBUG:root:confidence: 597
+DEBUG:root:song start_time: 149
+DEBUG:root:result start time: 63.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Keinzweiter-Mircoobee_90_3sec.mp3
+DEBUG:root:song: Keinzweiter-Mircoobee
+DEBUG:root:song_result: Keinzweiter-Mircoobee
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.592
+DEBUG:root:confidence: 304
+DEBUG:root:song start_time: 90
+DEBUG:root:result start time: 90.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Halogen-03-LengthandBrechtSynaecideRemix_91_4sec.mp3
+DEBUG:root:song: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:song_result: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.749
+DEBUG:root:confidence: 242
+DEBUG:root:song start_time: 91
+DEBUG:root:result start time: 54.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ProfessorKliq-03-BustThisBustThat_100_3sec.mp3
+DEBUG:root:song: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:song_result: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.592
+DEBUG:root:confidence: 294
+DEBUG:root:song start_time: 100
+DEBUG:root:result start time: 108.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Kriss-03-JazzClub_194_3sec.mp3
+DEBUG:root:song: Kriss-03-JazzClub
+DEBUG:root:song_result: Kriss-03-JazzClub
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.613
+DEBUG:root:confidence: 526
+DEBUG:root:song start_time: 194
+DEBUG:root:result start time: 255.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake_23_2sec.mp3
+DEBUG:root:song: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:song_result: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.446
+DEBUG:root:confidence: 524
+DEBUG:root:song start_time: 23
+DEBUG:root:result start time: 33.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Halogen-03-LengthandBrechtSynaecideRemix_155_2sec.mp3
+DEBUG:root:song: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:song_result: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.434
+DEBUG:root:confidence: 49
+DEBUG:root:song start_time: 155
+DEBUG:root:result start time: 155.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: SeanFournier-06-FallingForYouPianoVersion_16_5sec.mp3
+DEBUG:root:song: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:song_result: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.825
+DEBUG:root:confidence: 132
+DEBUG:root:song start_time: 16
+DEBUG:root:result start time: 16.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake_157_5sec.mp3
+DEBUG:root:song: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:song_result: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.911
+DEBUG:root:confidence: 614
+DEBUG:root:song start_time: 157
+DEBUG:root:result start time: 42.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: NobaraHayakawa-01-Trail_116_5sec.mp3
+DEBUG:root:song: NobaraHayakawa-01-Trail
+DEBUG:root:song_result: NobaraHayakawa-01-Trail
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.861
+DEBUG:root:confidence: 882
+DEBUG:root:song start_time: 116
+DEBUG:root:result start time: 116.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: BradSucks-07-TotalBreakdown_74_1sec.mp3
+DEBUG:root:song: BradSucks-07-TotalBreakdown
+DEBUG:root:song_result: BradSucks-07-TotalBreakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.239
+DEBUG:root:confidence: 26
+DEBUG:root:song start_time: 74
+DEBUG:root:result start time: 74.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake_22_1sec.mp3
+DEBUG:root:song: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:song_result: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.244
+DEBUG:root:confidence: 324
+DEBUG:root:song start_time: 22
+DEBUG:root:result start time: 118.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: adcBicycle-02-pooreconomicpolicies_79_5sec.mp3
+DEBUG:root:song: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:song_result: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.917
+DEBUG:root:confidence: 569
+DEBUG:root:song start_time: 79
+DEBUG:root:result start time: 79.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Krillminima-01-Sommerdellen_157_1sec.mp3
+DEBUG:root:song: Krillminima-01-Sommerdellen
+DEBUG:root:song_result: Krillminima-01-Sommerdellen
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.195
+DEBUG:root:confidence: 18
+DEBUG:root:song start_time: 157
+DEBUG:root:result start time: 157.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Erdbeerschnitzel-Walkampfchampagne_185_5sec.mp3
+DEBUG:root:song: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:song_result: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.922
+DEBUG:root:confidence: 110
+DEBUG:root:song start_time: 185
+DEBUG:root:result start time: 185.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Krillminima-01-Sommerdellen_135_4sec.mp3
+DEBUG:root:song: Krillminima-01-Sommerdellen
+DEBUG:root:song_result: Krillminima-01-Sommerdellen
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.678
+DEBUG:root:confidence: 150
+DEBUG:root:song start_time: 135
+DEBUG:root:result start time: 135.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: RobinGrey-01-TheseDays_44_3sec.mp3
+DEBUG:root:song: RobinGrey-01-TheseDays
+DEBUG:root:song_result: RobinGrey-01-TheseDays
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.629
+DEBUG:root:confidence: 213
+DEBUG:root:song start_time: 44
+DEBUG:root:result start time: 105.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Krillminima-01-Sommerdellen_119_5sec.mp3
+DEBUG:root:song: Krillminima-01-Sommerdellen
+DEBUG:root:song_result: Krillminima-01-Sommerdellen
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.809
+DEBUG:root:confidence: 132
+DEBUG:root:song start_time: 119
+DEBUG:root:result start time: 129.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ProfessorKliq-03-BustThisBustThat_74_4sec.mp3
+DEBUG:root:song: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:song_result: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.75
+DEBUG:root:confidence: 186
+DEBUG:root:song start_time: 74
+DEBUG:root:result start time: 57.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: EntertainmentfortheBraindead-04-run_148_4sec.mp3
+DEBUG:root:song: EntertainmentfortheBraindead-04-run
+DEBUG:root:song_result: EntertainmentfortheBraindead-04-run
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.71
+DEBUG:root:confidence: 813
+DEBUG:root:song start_time: 148
+DEBUG:root:result start time: 148.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: TheLightsGalaxia-02-WhileSheSleepsMorningEdit_64_5sec.mp3
+DEBUG:root:song: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:song_result: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.784
+DEBUG:root:confidence: 176
+DEBUG:root:song start_time: 64
+DEBUG:root:result start time: 64.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: BradSucks-07-TotalBreakdown_112_4sec.mp3
+DEBUG:root:song: BradSucks-07-TotalBreakdown
+DEBUG:root:song_result: BradSucks-07-TotalBreakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.723
+DEBUG:root:confidence: 248
+DEBUG:root:song start_time: 112
+DEBUG:root:result start time: 112.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Kriss-03-JazzClub_262_2sec.mp3
+DEBUG:root:song: Kriss-03-JazzClub
+DEBUG:root:song_result: Kriss-03-JazzClub
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.444
+DEBUG:root:confidence: 130
+DEBUG:root:song start_time: 262
+DEBUG:root:result start time: 262.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: JoshWoodward-IWantToDestroySomethingBeautiful_178_2sec.mp3
+DEBUG:root:song: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:song_result: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.416
+DEBUG:root:confidence: 466
+DEBUG:root:song start_time: 178
+DEBUG:root:result start time: 178.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: SeanFournier-06-FallingForYouPianoVersion_45_1sec.mp3
+DEBUG:root:song: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:song_result: SeanFournier-06-FallingForYouPianoVersion
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.22
+DEBUG:root:confidence: 219
+DEBUG:root:song start_time: 45
+DEBUG:root:result start time: 45.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: TheLightsGalaxia-02-WhileSheSleepsMorningEdit_18_3sec.mp3
+DEBUG:root:song: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:song_result: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.483
+DEBUG:root:confidence: 21
+DEBUG:root:song start_time: 18
+DEBUG:root:result start time: 28.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ComfortFit-03-Sorry_58_3sec.mp3
+DEBUG:root:song: ComfortFit-03-Sorry
+DEBUG:root:song_result: ComfortFit-03-Sorry
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.586
+DEBUG:root:confidence: 633
+DEBUG:root:song start_time: 58
+DEBUG:root:result start time: 58.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Erdbeerschnitzel-Walkampfchampagne_232_3sec.mp3
+DEBUG:root:song: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:song_result: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.571
+DEBUG:root:confidence: 179
+DEBUG:root:song start_time: 232
+DEBUG:root:result start time: 232.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: RobinGrey-01-TheseDays_21_5sec.mp3
+DEBUG:root:song: RobinGrey-01-TheseDays
+DEBUG:root:song_result: RobinGrey-01-TheseDays
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.874
+DEBUG:root:confidence: 492
+DEBUG:root:song start_time: 21
+DEBUG:root:result start time: 21.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc-01-EigenvalueSubspaceDecomposition_285_5sec.mp3
+DEBUG:root:song: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:song_result: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.732
+DEBUG:root:confidence: 57
+DEBUG:root:song start_time: 285
+DEBUG:root:result start time: 285.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Kriss-03-JazzClub_189_1sec.mp3
+DEBUG:root:song: Kriss-03-JazzClub
+DEBUG:root:song_result: Kriss-03-JazzClub
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.243
+DEBUG:root:confidence: 123
+DEBUG:root:song start_time: 189
+DEBUG:root:result start time: 98.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Keinzweiter-Mircoobee_41_5sec.mp3
+DEBUG:root:song: Keinzweiter-Mircoobee
+DEBUG:root:song_result: Keinzweiter-Mircoobee
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.875
+DEBUG:root:confidence: 353
+DEBUG:root:song start_time: 41
+DEBUG:root:result start time: 41.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Keinzweiter-Mircoobee_210_1sec.mp3
+DEBUG:root:song: Keinzweiter-Mircoobee
+DEBUG:root:song_result: Keinzweiter-Mircoobee
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.232
+DEBUG:root:confidence: 193
+DEBUG:root:song start_time: 210
+DEBUG:root:result start time: 210.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc-01-EigenvalueSubspaceDecomposition_16_4sec.mp3
+DEBUG:root:song: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:song_result: Choc-01-EigenvalueSubspaceDecomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.607
+DEBUG:root:confidence: 18
+DEBUG:root:song start_time: 16
+DEBUG:root:result start time: 37.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Kriss-03-JazzClub_207_4sec.mp3
+DEBUG:root:song: Kriss-03-JazzClub
+DEBUG:root:song_result: Kriss-03-JazzClub
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.761
+DEBUG:root:confidence: 401
+DEBUG:root:song start_time: 207
+DEBUG:root:result start time: 283.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: RobinGrey-01-TheseDays_142_2sec.mp3
+DEBUG:root:song: RobinGrey-01-TheseDays
+DEBUG:root:song_result: RobinGrey-01-TheseDays
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.416
+DEBUG:root:confidence: 117
+DEBUG:root:song start_time: 142
+DEBUG:root:result start time: 142.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ComfortFit-03-Sorry_13_1sec.mp3
+DEBUG:root:song: ComfortFit-03-Sorry
+DEBUG:root:song_result: ComfortFit-03-Sorry
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.227
+DEBUG:root:confidence: 227
+DEBUG:root:song start_time: 13
+DEBUG:root:result start time: 13.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Halogen-03-LengthandBrechtSynaecideRemix_67_1sec.mp3
+DEBUG:root:song: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:song_result: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.203
+DEBUG:root:confidence: 28
+DEBUG:root:song start_time: 67
+DEBUG:root:result start time: 67.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: PaperNavy-08-SwanSong_65_5sec.mp3
+DEBUG:root:song: PaperNavy-08-SwanSong
+DEBUG:root:song_result: PaperNavy-08-SwanSong
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.885
+DEBUG:root:confidence: 293
+DEBUG:root:song start_time: 65
+DEBUG:root:result start time: 65.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: adcBicycle-02-pooreconomicpolicies_147_4sec.mp3
+DEBUG:root:song: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:song_result: adcBicycle-02-pooreconomicpolicies
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.735
+DEBUG:root:confidence: 126
+DEBUG:root:song start_time: 147
+DEBUG:root:result start time: 147.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: EntertainmentfortheBraindead-04-run_180_1sec.mp3
+DEBUG:root:song: EntertainmentfortheBraindead-04-run
+DEBUG:root:song_result: EntertainmentfortheBraindead-04-run
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.199
+DEBUG:root:confidence: 74
+DEBUG:root:song start_time: 180
+DEBUG:root:result start time: 180.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: JoshWoodward-IWantToDestroySomethingBeautiful_73_4sec.mp3
+DEBUG:root:song: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:song_result: JoshWoodward-IWantToDestroySomethingBeautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.722
+DEBUG:root:confidence: 590
+DEBUG:root:song start_time: 73
+DEBUG:root:result start time: 73.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Monopole-02-Stereo-visionradio_413_3sec.mp3
+DEBUG:root:song: Monopole-02-Stereo-visionradio
+DEBUG:root:song_result: Monopole-02-Stereo-visionradio
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.581
+DEBUG:root:confidence: 260
+DEBUG:root:song start_time: 413
+DEBUG:root:result start time: 413.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Krillminima-01-Sommerdellen_39_2sec.mp3
+DEBUG:root:song: Krillminima-01-Sommerdellen
+DEBUG:root:song_result: Krillminima-01-Sommerdellen
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.37
+DEBUG:root:confidence: 10
+DEBUG:root:song start_time: 39
+DEBUG:root:result start time: 58.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Monopole-02-Stereo-visionradio_310_1sec.mp3
+DEBUG:root:song: Monopole-02-Stereo-visionradio
+DEBUG:root:song_result: Monopole-02-Stereo-visionradio
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.23
+DEBUG:root:confidence: 166
+DEBUG:root:song start_time: 310
+DEBUG:root:result start time: 321.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: ProfessorKliq-03-BustThisBustThat_14_1sec.mp3
+DEBUG:root:song: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:song_result: ProfessorKliq-03-BustThisBustThat
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.236
+DEBUG:root:confidence: 161
+DEBUG:root:song start_time: 14
+DEBUG:root:result start time: 13.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Erdbeerschnitzel-Walkampfchampagne_321_2sec.mp3
+DEBUG:root:song: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:song_result: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.436
+DEBUG:root:confidence: 124
+DEBUG:root:song start_time: 321
+DEBUG:root:result start time: 321.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: TheLightsGalaxia-02-WhileSheSleepsMorningEdit_234_4sec.mp3
+DEBUG:root:song: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:song_result: TheLightsGalaxia-02-WhileSheSleepsMorningEdit
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.623
+DEBUG:root:confidence: 108
+DEBUG:root:song start_time: 234
+DEBUG:root:result start time: 234.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: EntertainmentfortheBraindead-04-run_73_5sec.mp3
+DEBUG:root:song: EntertainmentfortheBraindead-04-run
+DEBUG:root:song_result: EntertainmentfortheBraindead-04-run
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.84
+DEBUG:root:confidence: 1013
+DEBUG:root:song start_time: 73
+DEBUG:root:result start time: 73.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake_47_3sec.mp3
+DEBUG:root:song: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:song_result: KaraokeMouse-04-ShanghaiReggaeDJSidesAlternateTake
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.582
+DEBUG:root:confidence: 529
+DEBUG:root:song start_time: 47
+DEBUG:root:result start time: 47.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Halogen-03-LengthandBrechtSynaecideRemix_217_5sec.mp3
+DEBUG:root:song: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:song_result: Halogen-03-LengthandBrechtSynaecideRemix
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.875
+DEBUG:root:confidence: 176
+DEBUG:root:song start_time: 217
+DEBUG:root:result start time: 231.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: BradSucks-07-TotalBreakdown_120_3sec.mp3
+DEBUG:root:song: BradSucks-07-TotalBreakdown
+DEBUG:root:song_result: BradSucks-07-TotalBreakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.575
+DEBUG:root:confidence: 696
+DEBUG:root:song start_time: 120
+DEBUG:root:result start time: 120.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Monopole-02-Stereo-visionradio_350_4sec.mp3
+DEBUG:root:song: Monopole-02-Stereo-visionradio
+DEBUG:root:song_result: Monopole-02-Stereo-visionradio
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.769
+DEBUG:root:confidence: 643
+DEBUG:root:song start_time: 350
+DEBUG:root:result start time: 356.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Erdbeerschnitzel-Walkampfchampagne_71_4sec.mp3
+DEBUG:root:song: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:song_result: Erdbeerschnitzel-Walkampfchampagne
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.747
+DEBUG:root:confidence: 274
+DEBUG:root:song start_time: 71
+DEBUG:root:result start time: 71.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 107.376419067
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans (u'/home/menno/multimedia-project/multimedia_project/local/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans (u'/home/menno/multimedia-project/multimedia_project/local/lib/python2.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
