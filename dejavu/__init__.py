@@ -11,6 +11,7 @@ class Dejavu(object):
 
     SONG_ID = "song_id"
     SONG_NAME = 'song_name'
+    SONG_ARTIST = 'song_artist'
     CONFIDENCE = 'confidence'
     MATCH_TIME = 'match_time'
     OFFSET = 'offset'
@@ -103,7 +104,7 @@ class Dejavu(object):
         pool.close()
         pool.join()
 
-    def fingerprint_file(self, filepath, song_name=None):
+    def fingerprint_file(self, filepath, song_name=None, song_artist=None):
         songname = decoder.path_to_songname(filepath)
         song_hash = decoder.unique_hash(filepath)
         song_name = song_name or songname
@@ -114,9 +115,10 @@ class Dejavu(object):
             song_name, hashes, file_hash = _fingerprint_worker(
                 filepath,
                 self.limit,
-                song_name=song_name
+                song_name=song_name,
+                song_artist=song_artist
             )
-            sid = self.db.insert_song(song_name, file_hash)
+            sid = self.db.insert_song(song_name, song_artist, file_hash)
 
             self.db.insert_hashes(sid, hashes)
             self.db.set_song_fingerprinted(sid)
@@ -166,6 +168,7 @@ class Dejavu(object):
         if song:
             # TODO: Clarify what `get_song_by_id` should return.
             songname = song.get(Dejavu.SONG_NAME, None)
+            songartist = song.get(Dejavu.SONG_ARTIST, None)
         else:
             return None
 
@@ -193,6 +196,7 @@ class Dejavu(object):
         song = {
             Dejavu.SONG_ID : song_id,
             Dejavu.SONG_NAME : songname,
+            Dejavu.SONG_ARTIST: songartist,
             Dejavu.CONFIDENCE : str(conf),
             Dejavu.OFFSET : int(largest),
             Dejavu.OFFSET_SECS : nseconds,
@@ -204,7 +208,7 @@ class Dejavu(object):
         return r.recognize(*options, **kwoptions)
 
 
-def _fingerprint_worker(filename, limit=None, song_name=None):
+def _fingerprint_worker(filename, limit=None, song_name=None, song_artist = None):
     # Pool.imap sends arguments as tuples so we have to unpack
     # them ourself.
     try:
