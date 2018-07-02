@@ -64,12 +64,16 @@ def recognize():
         djv = Dejavu(config)
         song = djv.recognize(FileRecognizer, os.path.join(UPLOAD_FOLDER, filename))
         uid += 1
-        #os.remove(os.path.join(UPLOAD_FOLDER, filename))
-        print(song)
-        return jsonify(song)
     except:
         traceback.print_exc()
         abort(500)
+
+        #os.remove(os.path.join(UPLOAD_FOLDER, filename))
+    print(song)
+    if (song['confidence'] < 0.5 and song['matches'] < 10) or song['matches'] < 4:
+        abort(404)
+    else:
+        return jsonify(song)
 
 @app.route('/fingerprint', methods=['POST'])
 def upload_file():
