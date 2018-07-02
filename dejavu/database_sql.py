@@ -90,7 +90,7 @@ class SQLDatabase(Database):
             (UNHEX(%%s), %%s, %%s);
     """ % (FINGERPRINTS_TABLENAME, Database.FIELD_HASH, Database.FIELD_SONG_ID, Database.FIELD_OFFSET)
 
-    INSERT_SONG = "INSERT INTO %s (%s, %s, %s) values (%%s, UNHEX(%%s));" % (
+    INSERT_SONG = "INSERT INTO %s (%s, %s, %s) values (%%s, %%s, UNHEX(%%s));" % (
         SONGS_TABLENAME, Database.FIELD_SONGNAME, Database.FIELD_SONGARTIST, Database.FIELD_FILE_SHA1)
 
     # selects
@@ -137,6 +137,10 @@ class SQLDatabase(Database):
     DELETE_UNFINGERPRINTED = """
         DELETE FROM %s WHERE %s = 0;
     """ % (SONGS_TABLENAME, FIELD_FINGERPRINTED)
+
+    DELETE_SONG = """
+        DELETE FROM %s WHERE %s = %%s;
+    """ % (SONGS_TABLENAME, Database.FIELD_SONG_ID)
 
     def __init__(self, **options):
         super(SQLDatabase, self).__init__()
@@ -220,6 +224,13 @@ class SQLDatabase(Database):
             for row in cur:
                 yield row
 
+    def delete_song_by_id(self, sid):
+        print('db delete')
+        print(sid)
+        with self.cursor() as cur:
+            cur.execute(self.DELETE_SONG, (sid,))
+
+
     def get_song_by_id(self, sid):
         """
         Returns song by its ID.
@@ -236,6 +247,8 @@ class SQLDatabase(Database):
             cur.execute(self.INSERT_FINGERPRINT, (hash, sid, offset))
 
     def insert_song(self, songname, songartist, file_hash):
+        print('inserting song')
+        print(songartist)
         """
         Inserts song in the database and returns the ID of the inserted record.
         """
@@ -343,7 +356,7 @@ class Cursor(object):
         try:
             conn = self._cache.get_nowait()
         except Queue.Empty:
-            conn = mysql.connect(**options)
+            conn = mysql.connect(charset = 'utf8', **options)
         else:
             # Ping the connection before using it from the cache.
             conn.ping(True)

@@ -16,6 +16,7 @@ class Dejavu(object):
     MATCH_TIME = 'match_time'
     OFFSET = 'offset'
     OFFSET_SECS = 'offset_seconds'
+    NUMBER_MATCHES = 'matches'
 
     def __init__(self, config):
         super(Dejavu, self).__init__()
@@ -41,6 +42,19 @@ class Dejavu(object):
         for song in songs:
             res.add(song['song_name'])
         return res
+   
+    def get_songs_detailed(self):
+        songs = self.db.get_songs()
+        res = []
+        for song in songs:
+            res.append({'id': song['song_id'], 'title': song['song_name'], 'artist': song['song_artist']})
+        return res
+
+    def delete_song(self, sid):
+        print('in dejavu.delete_song')
+        print('song id is')
+        print(sid)
+        self.db.delete_song_by_id(sid)
     
     def get_fingerprinted_songs(self):
         # get songs previously indexed
@@ -105,6 +119,8 @@ class Dejavu(object):
         pool.join()
 
     def fingerprint_file(self, filepath, song_name=None, song_artist=None):
+        print('fingerprint_file')
+        print(song_artist)
         songname = decoder.path_to_songname(filepath)
         song_hash = decoder.unique_hash(filepath)
         song_name = song_name or songname
@@ -118,6 +134,7 @@ class Dejavu(object):
                 song_name=song_name,
                 song_artist=song_artist
             )
+            print(song_artist)
             sid = self.db.insert_song(song_name, song_artist, file_hash)
 
             self.db.insert_hashes(sid, hashes)
@@ -181,26 +198,28 @@ class Dejavu(object):
         largest = 0
         q = 0
         for _, v in diff_counter.items():
-            for k, v2 in v.items():
+           for k, v2 in v.items():
                 if not(k == song_id) and int(v2) > largest:
                     largest = int(v2)
                     q = k
         
         conf = 1.0 - float(largest) / float(largest_count)
-
-        #print(largest)
-        #print(largest_count)
+     
+        print(largest)
+        print(largest_count)
         #print(q)
         #print(self.db.get_song_by_id(q).get(Dejavu.SONG_NAME, None))
-                
+        print(songname)
+        print(songartist)
         song = {
             Dejavu.SONG_ID : song_id,
             Dejavu.SONG_NAME : songname,
             Dejavu.SONG_ARTIST: songartist,
-            Dejavu.CONFIDENCE : str(conf),
+            Dejavu.CONFIDENCE : conf,
             Dejavu.OFFSET : int(largest),
             Dejavu.OFFSET_SECS : nseconds,
-            Database.FIELD_FILE_SHA1 : song.get(Database.FIELD_FILE_SHA1, None)}
+            Database.FIELD_FILE_SHA1 : song.get(Database.FIELD_FILE_SHA1, None),
+            Dejavu.NUMBER_MATCHES : largest_count}
         return song
 
     def recognize(self, recognizer, *options, **kwoptions):
